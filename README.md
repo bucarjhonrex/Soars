@@ -1,7 +1,7 @@
 # Soars
 
-#Made By
+## Made By
 ---
-*Diongzon
-*Bucar
-*Ofilan
+* Diongzon
+* Bucar
+* Ofilan
